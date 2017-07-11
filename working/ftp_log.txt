@@ -1,0 +1,7 @@
+Server connection: 0
+Changed directory: 1
+Switch to  binary: binary
+Get filesize byte: 123110672
+Complete transfer: 0
+Close FTP command: 0
+FTP failed: arlftp.arlhq.noaa.gov -> /pub/archives/reanalysis/RP201510.gbl 
